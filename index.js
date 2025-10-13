@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import termkit from "terminal-kit";
 import gradient from "gradient-string";
 import { startupProgress, exitProgress } from "./loader.js";
