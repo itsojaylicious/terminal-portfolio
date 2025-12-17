@@ -1,4 +1,4 @@
-# itsojaylicious
+# Portfolio
 
 A terminal-based personal portfolio published as an npm package.
 
