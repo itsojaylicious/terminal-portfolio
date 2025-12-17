@@ -1,4 +1,4 @@
 export async function showProjects(typeWriter) {
-  await typeWriter("\n📂  My Projects:");
-  await typeWriter("  - TO BE UPDATED---");
+  await typeWriter("\n📂  My Projects: [Uploaded on GitHub]");
+  await typeWriter("🐦 GitHub: @itsojaylicious - Type 'github' to open");
 }
