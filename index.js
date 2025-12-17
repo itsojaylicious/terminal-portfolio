@@ -57,6 +57,11 @@ async function handleCommand(command) {
       await typeWriter("Opening LinkedIn...");
       open("https://www.linkedin.com/in/jaiparashar");
       break;
+
+    case "resume":
+      await typeWriter("Opening LinkedIn...");
+      open("https://www.overleaf.com/read/dbsctwbzpvsd#ac8887");
+      break;
     
     case "github":
       await typeWriter("Opening GitHub...");
